@@ -1,1 +1,2 @@
 Added a new sample file
+Adding sample-2.txt in feature-branch-2
